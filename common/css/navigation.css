@@ -1,0 +1,28 @@
+#darker-bg-color{
+    background-color: rgb(19, 19, 16);
+}
+
+.nav-item{
+    margin-right: 1em;
+}
+
+.nav-link{
+    color: white !important;
+}
+
+.nav-link-drop{
+    color: black !important;
+}
+
+.hover-orange:hover{
+    color: #EDAA00 !important;
+}
+
+.focus-orange:focus{
+    color: #EDAA00 !important;
+    border-bottom: 5px solid #EDAA00;
+}
+
+#active{
+    color: #EDAA00 !important;
+}
